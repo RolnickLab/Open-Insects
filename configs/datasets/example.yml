@@ -1,0 +1,37 @@
+dataset:
+  name: 
+  num_classes: 
+  pre_size: # the original size of the image
+  image_size: # the size of the image as the input to the model
+
+  interpolation: bilinear
+  normalization_type: imagenet
+
+  num_workers: '@{num_workers}'
+  num_gpus: '@{num_gpus}'
+  num_machines: '@{num_machines}'
+
+  split_names: [train, val, test]
+
+  train:
+    dataset_class: ImglistDataset
+    data_dir: # the image directory 
+    imglist_pth: # the metadata (a txt file with the following format:<image path> <label>)
+    batch_size:
+    shuffle: True
+    len: # total number of images
+  val:
+    dataset_class: ImglistDataset
+    data_dir: # the image directory 
+    imglist_pth: # the metadata (a txt file with the following format:<image path> <label>)
+    batch_size:
+    shuffle: False
+  
+  test:
+    dataset_class: ImglistDataset
+    data_dir: # the image directory 
+    imglist_pth: # the metadata (a txt file with the following format:<image path> <label>)
+    batch_size:
+    shuffle: False
+  
+  

@@ -1,0 +1,12 @@
+name: 
+
+dataset:
+  name:
+  split_names: [train, oe, val, test]
+  oe:
+    dataset_class: ImglistDataset
+    data_dir: # the image directory 
+    imglist_pth: # the metadata (a txt file with the following format:<image path> <label>)
+    batch_size:
+    shuffle: True
+    interpolation: bilinear
