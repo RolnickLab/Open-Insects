@@ -80,4 +80,4 @@ If you find our code useful for your research, please consider citing the paper:
 
 ## Acknowledgement
 
-This codebase is built using [OpenOOD] (https://github.com/Jingkang50/OpenOOD/tree/main). We sincerely appreciate their efforts in making this valuable resource publicly available.
+This codebase is built using [OpenOOD](https://github.com/Jingkang50/OpenOOD/tree/main). We sincerely appreciate their efforts in making this valuable resource publicly available.
