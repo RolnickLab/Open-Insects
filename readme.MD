@@ -52,7 +52,7 @@ python $CURDIR/scripts/eval_trained.py \
     --config configs/datasets/<dataset config>.yml  \
       configs/datasets/<ood dataset config>.yml \
       configs/preprocessors/base_preprocessor.yml \
-      configs/networks/resnet50.yml \
+      configs/networks/<network config>.yml \
       configs/pipelines/test/test_ood.yml \
       configs/postprocessors/<the OOD detection method>.yml \
     --network.checkpoint <path to the checkpoint>  \
