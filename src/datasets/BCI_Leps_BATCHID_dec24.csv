@@ -1,0 +1,303 @@
+﻿Block ID,Processid,Sampleid,Current ID,Current Order,% Match,Overlap (bp),Match Phylum,Match Class,Match Order,Match Family,Match Genus,Match Species,Match Processid,Match BIN
+288,CNCLB6192-24,BCI185407,Chalenata,Lepidoptera,98.62,508,Arthropoda,Insecta,Lepidoptera,Erebidae,Aggustiana,Aggustiana undilinea,BLPDK807-09,BOLD:AAD6337
+111,CNCLB5878-24,BCI190623,Antaea,Lepidoptera,100,483,Arthropoda,Insecta,Lepidoptera,Notodontidae,Antaea,Antaea lichyi,MHAND032-06,BOLD:AAA9722
+100,CNCLB5863-24,BCI190692,Erebidae,Lepidoptera,100,492,Arthropoda,Insecta,Lepidoptera,Erebidae,Antiblemma,Antiblemma incarnans,BLPCF442-08,BOLD:AAD6187
+12,CNCLB5753-23,CNCLEP00326913,Phycoma marcellina,Lepidoptera,100,476,Arthropoda,Insecta,Lepidoptera,Erebidae,Antiblemma,Antiblemma steropioides,,BOLD:AAN7040
+274,CNCLB6159-24,BCI184529,Antiopha,Lepidoptera,99.65,483,Arthropoda,Insecta,Lepidoptera,Notodontidae,Antiopha,Antiopha multilinea,,BOLD:AEJ1289
+173,CNCLB5956-24,BCI184581,Apatelodes,Lepidoptera,100,492,Arthropoda,Insecta,Lepidoptera,Apatelodidae,Apatelodes,Apatelodes firmiana,BCIOM038-19,BOLD:AEC1852
+167,CNCLB5948-24,BCI184486,Apatelodes,Lepidoptera,100,460,Arthropoda,Insecta,Lepidoptera,Apatelodidae,Apatelodes,Apatelodes tuisa,BCIGE332-10,BOLD:AAA9878
+227,CNCLB6047-24,BCI189429,Apela,Lepidoptera,99.84,490,Arthropoda,Insecta,Lepidoptera,Notodontidae,Apela,Apela divisa,,BOLD:ABY4543
+258,CNCLB6138-24,BCI187494,Apela,Lepidoptera,99.85,510,Arthropoda,Insecta,Lepidoptera,Notodontidae,Apela,Apela divisa,,BOLD:ABY4543
+270,CNCLB6153-24,BCI184539,Apela,Lepidoptera,100,498,Arthropoda,Insecta,Lepidoptera,Notodontidae,Apela,Apela dubiosa,BLPCE217-08,BOLD:AAK1942
+143,CNCLB5916-24,BCI188624,Argyrosticta,Lepidoptera,100,489,Arthropoda,Insecta,Lepidoptera,Noctuidae,Argyrosticta,Argyrosticta bellinita,MHAUB665-05,BOLD:AAC0980
+144,CNCLB5917-24,BCI188644,Argyrosticta,Lepidoptera,100,480,Arthropoda,Insecta,Lepidoptera,Noctuidae,Argyrosticta,Argyrosticta bellinita,MHAUB660-05,BOLD:AAC0980
+304,CNCLB6212-24,BCI188527,Argyrosticta,Lepidoptera,99.52,459,Arthropoda,Insecta,Lepidoptera,Noctuidae,Argyrosticta,Argyrosticta venatrix,LOCRE482-10,BOLD:ABY9054
+200,CNCLB5990-24,BCI188696,Arrhenophanes,Lepidoptera,99.85,475,Arthropoda,Insecta,Lepidoptera,Psychidae,Arrhenophanes,Arrhenophanes perspicilla,BCIBT1275-13,BOLD:AAD7799
+152,CNCLB5927-24,BCI189513,Aucula particolor,Lepidoptera,100,481,Arthropoda,Insecta,Lepidoptera,Noctuidae,Aucula,Aucula particolor,BCIAR372-10,BOLD:AAM5830
+18,CNCLB5759-23,CNCLEP00326919,Baniana ypita,Lepidoptera,100,469,Arthropoda,Insecta,Lepidoptera,Erebidae,Baniana,Baniana ypita,,BOLD:AAK0111
+273,CNCLB6157-24,BCI185408,Calledema argenta,Lepidoptera,98.82,474,Arthropoda,Insecta,Lepidoptera,Notodontidae,Calledema,Calledema argenta,MHANB001-05,BOLD:AAC1407
+272,CNCLB6156-24,BCI184758,Calledema,Lepidoptera,100,484,Arthropoda,Insecta,Lepidoptera,Notodontidae,Calledema,Calledema marmorea,BCIOM393-23,BOLD:AAI6731
+138,CNCLB5910-24,BCI190993,Callopistria,Lepidoptera,100,480,Arthropoda,Insecta,Lepidoptera,Noctuidae,Callopistria,Callopistria dapsilis,MHAUB433-05,BOLD:AAI6972
+276,CNCLB6161-24,BCI184667,Canodia,Lepidoptera,100,480,Arthropoda,Insecta,Lepidoptera,Notodontidae,Canodia,Canodia difformis,BLPDY675-11,BOLD:AAI6442
+141,CNCLB5913-24,BCI188561,Cecharismena,Lepidoptera,100,492,Arthropoda,Insecta,Lepidoptera,Erebidae,Cecharismena,Cecharismena nealcesalis,MHMXM207-07,BOLD:AAA9161
+252,CNCLB6128-24,BCI189200,Cecrita,Lepidoptera,99.85,483,Arthropoda,Insecta,Lepidoptera,Notodontidae,Cecrita,Cecrita daona,BLPAD153-06,BOLD:AAA7792
+261,CNCLB6141-24,BCI184627,Cecrita lama,Lepidoptera,99.85,482,Arthropoda,Insecta,Lepidoptera,Notodontidae,Cecrita,Cecrita lama,MHANC216-05,BOLD:AAB4532
+239,CNCLB6084-24,BCI189816,Notodontidae,Lepidoptera,100,456,Arthropoda,Insecta,Lepidoptera,Notodontidae,Cecrita,Cecrita lama,CNCLB6141-24,BOLD:AAB4532
+26,CNCLB5767-23,CNCLEP00326927,Ceroctena,Lepidoptera,100,453,Arthropoda,Insecta,Lepidoptera,Erebidae,Ceroctena,Ceroctena amynta,MHAUB643-05,BOLD:AAB6949
+140,CNCLB5912-24,BCI190596,Ceroctena,Lepidoptera,100,476,Arthropoda,Insecta,Lepidoptera,Erebidae,Ceroctena,Ceroctena amynta,MHAUB643-05,BOLD:AAB6949
+148,CNCLB5923-24,BCI191786,Coenipeta,Lepidoptera,99.84,469,Arthropoda,Insecta,Lepidoptera,Erebidae,Coenipeta,Coenipeta dimidiata,LNOUF116-11,BOLD:AAU7511
+43,CNCLB5785-23,CNCLEP00326945,Coenopita,Lepidoptera,100,483,Arthropoda,Insecta,Lepidoptera,Erebidae,Coenipeta,Coenipeta glaucinans,BLPCK981-08,BOLD:AAS0337
+121,CNCLB5889-24,BCI187517,Erebidae,Lepidoptera,100,483,Arthropoda,Insecta,Lepidoptera,Erebidae,Coenipeta,Coenipeta polynoe,,BOLD:AAF4000
+132,CNCLB5901-24,BCI191661,Collomena,Lepidoptera,98.93,483,Arthropoda,Insecta,Lepidoptera,Nolidae,Collomena,Collomena filifera,BLPAA5339-17,BOLD:AAC8701
+53,CNCLB5795-23,CNCLEP00326955,Lepidoneiva caecum,Lepidoptera,100,464,Arthropoda,Insecta,Lepidoptera,Erebidae,Cosmosoma,Cosmosoma caecum,MHARB499-06,BOLD:AAD0021
+118,CNCLB5886-24,BCI187983,Dalcerides,Lepidoptera,99.66,464,Arthropoda,Insecta,Lepidoptera,Dalceridae,Dalcerides,Dalcerides alba,LNAUY2345-19,BOLD:AGE7999
+104,CNCLB5867-24,BCI188857,Dalcerides,Lepidoptera,100,452,Arthropoda,Insecta,Lepidoptera,Dalceridae,Dalcerides,Dalcerides mesoa,,BOLD:AAU0521
+117,CNCLB5885-24,BCI189099,Dalcerides,Lepidoptera,100,469,Arthropoda,Insecta,Lepidoptera,Dalceridae,Dalcerides,Dalcerides mesoa,,BOLD:AAU0521
+211,CNCLB6014-24,BCI184497,Dalcerides,Lepidoptera,100,450,Arthropoda,Insecta,Lepidoptera,Dalceridae,Dalcerides,Dalcerides mesoa,,BOLD:AAU0521
+39,CNCLB5781-23,CNCLEP00326941,Dialithis,Lepidoptera,100,470,Arthropoda,Insecta,Lepidoptera,Erebidae,Dialithis,Dialithis gemmifera,BCIOM126-19,BOLD:AAD4485
+232,CNCLB6058-24,BCI189002,Notodontidae,Lepidoptera,99.84,462,Arthropoda,Insecta,Lepidoptera,Notodontidae,Disphragis,Disphragis exarmata,MHANB536-05,BOLD:AAA9728
+250,CNCLB6126-24,BCI188590,Notodontidae,Lepidoptera,100,486,Arthropoda,Insecta,Lepidoptera,Notodontidae,Disphragis,Disphragis exarmata,MHANB539-05,BOLD:AAA9728
+296,CNCLB6204-24,BCI187619,Drobeta,Lepidoptera,99.33,460,Arthropoda,Insecta,Lepidoptera,Noctuidae,Drobeta,Drobeta ithaca,BLPCD377-08,BOLD:AAE8059
+4,CNCLB5745-23,CNCLEP00326905,Ensipia andaca,Lepidoptera,100,469,Arthropoda,Insecta,Lepidoptera,Erebidae,Ensipia,Ensipia andaca,CNCLB5769-23,BOLD:AAE8309
+28,CNCLB5769-23,CNCLEP00326929,Ensipia andaca,Lepidoptera,100,469,Arthropoda,Insecta,Lepidoptera,Erebidae,Ensipia,Ensipia andaca,CNCLB5745-23,BOLD:AAE8309
+218,CNCLB6021-24,BCI190031,Agaristinae,Lepidoptera,100,484,Arthropoda,Insecta,Lepidoptera,Noctuidae,Erocha,Erocha leucotelus,BCIGE933-21,BOLD:AAC2724
+196,CNCLB5986-24,BCI188736,Limacodidae,Lepidoptera,99.67,459,Arthropoda,Insecta,Lepidoptera,Limacodidae,Euclea,Euclea buscki,,BOLD:AAB7194
+184,CNCLB5970-24,BCI187499,Euclea buscki,Lepidoptera,99.68,468,Arthropoda,Insecta,Lepidoptera,Limacodidae,Euclea,Euclea buscki,,BOLD:AAB7194
+123,CNCLB5892-24,BCI188963,Erebidae,Lepidoptera,100,468,Arthropoda,Insecta,Lepidoptera,Erebidae,Euclystis,Euclystis sublignaris,BLPCG454-08,BOLD:AAD0087
+160,CNCLB5939-24,BCI184712,Lasiocampidae,Lepidoptera,99.69,484,Arthropoda,Insecta,Lepidoptera,Lasiocampidae,Euglyphis,Euglyphis fibra,BCIBT2105-21,BOLD:AEN0350
+161,CNCLB5940-24,BCI190020,Euglyphis,Lepidoptera,99.85,486,Arthropoda,Insecta,Lepidoptera,Lasiocampidae,Euglyphis,Euglyphis fibra,BCIBT2105-21,BOLD:AEN0350
+159,CNCLB5937-24,BCI188948,Euglyphis,Lepidoptera,100,486,Arthropoda,Insecta,Lepidoptera,Lasiocampidae,Euglyphis,Euglyphis fibra,BCIBT2105-21,BOLD:AEN0350
+113,CNCLB5880-24,BCI191025,Lasiocampidae,Lepidoptera,99.52,468,Arthropoda,Insecta,Lepidoptera,Lasiocampidae,Euglyphis,Euglyphis sigurda,,BOLD:AAA2535
+263,CNCLB6143-24,BCI184632,Euphastia,Lepidoptera,100,453,Arthropoda,Insecta,Lepidoptera,Notodontidae,Euphastia,Euphastia nubila,LNAUW3692-18,BOLD:ABU6765
+151,CNCLB5926-24,BCI189633,Eustrotia merta,Lepidoptera,100,454,Arthropoda,Insecta,Lepidoptera,Noctuidae,Eustrotia,Eustrotia merta,MHMYO114-11,BOLD:AAA6698
+290,CNCLB6195-24,BCI185420,Eustrotia merta,Lepidoptera,100,474,Arthropoda,Insecta,Lepidoptera,Noctuidae,Eustrotia,Eustrotia merta,MHMYO114-11,BOLD:AAA6698
+291,CNCLB6196-24,BCI187527,Eustrotia merta,Lepidoptera,100,473,Arthropoda,Insecta,Lepidoptera,Noctuidae,Eustrotia,Eustrotia merta,MHAUC668-06,BOLD:AAA6698
+247,CNCLB6119-24,BCI188778,Erebidae,Lepidoptera,98.72,471,Arthropoda,Insecta,Lepidoptera,Noctuidae,Gonodes,Gonodes obliqua,JICFF008-16,BOLD:AAK4092
+277,CNCLB6162-24,BCI184508,Hapigia,Lepidoptera,99.85,491,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hapigia,Hapigia curvilinea,ASARD6711-12,BOLD:AAM9578
+134,CNCLB5904-24,BCI191752,Hapigia,Lepidoptera,100,486,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hapigia,Hapigia curvilinea,BCIAR439-10,BOLD:AAM9578
+248,CNCLB6122-24,BCI187507,Hapigiodes,Lepidoptera,99.85,484,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hapigiodes,Hapigiodes sigifredomarini,ASARD7106-12,BOLD:AAA7859
+279,CNCLB6165-24,BCI184725,Hemiceras flava,Lepidoptera,100,463,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hemiceras,Hemiceras flava,BLPAA21751-20,BOLD:AAA7142
+283,CNCLB6172-24,BCI187485,Hemiceras,Lepidoptera,100,492,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hemiceras,Hemiceras flavescens,BCIOM266-21,BOLD:ACL2882
+285,CNCLB6174-24,BCI187610,Notodontidae,Lepidoptera,100,484,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hemiceras,Hemiceras flavescens,BCIOM266-21,BOLD:ACL2882
+230,CNCLB6055-24,BCI188807,Hemiceras,Lepidoptera,100,458,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hemiceras,Hemiceras losa,BLPAA19282-20,BOLD:AAA5861
+133,CNCLB5902-24,BCI191574,Hemiceras,Lepidoptera,99.36,468,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hemiceras,Hemiceras metastigma,ASARD10515-14,BOLD:AAS6483
+256,CNCLB6136-24,BCI187943,Hemiceras,Lepidoptera,99.85,498,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hemiceras,Hemiceras sparsipennis,ASARD9570-14,BOLD:ACL4196
+226,CNCLB6046-24,BCI188992,Hemiceras,Lepidoptera,99.83,459,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hemiceras,Hemiceras subo,MHANA260-05,BOLD:AAA3919
+46,CNCLB5788-23,CNCLEP00326948,Homoeocera stictosoma,Lepidoptera,100,473,Arthropoda,Insecta,Lepidoptera,Erebidae,Homoeocera,Homoeocera stictosoma,BCIAR085-10,BOLD:AAM5340
+3,CNCLB5744-23,CNCLEP00326904,Hyamia palpitatalis,Lepidoptera,100,473,Arthropoda,Insecta,Lepidoptera,Erebidae,Hyamia,Hyamia palpitatalis,BCIOM163-19,BOLD:AEC2070
+127,CNCLB5896-24,BCI189593,Hyamia,Lepidoptera,100,492,Arthropoda,Insecta,Lepidoptera,Erebidae,Hyamia,Hyamia palpitatalis,BCIOM163-19,BOLD:AEC2070
+9,CNCLB5750-23,CNCLEP00326910,Iscadia,Lepidoptera,99.67,465,Arthropoda,Insecta,Lepidoptera,Nolidae,Iscadia,Iscadia purpurascens,LOCRE766-10,BOLD:AAA8452
+91,CNCLB5849-24,BCI190861,Langsdorfia,Lepidoptera,99.69,508,Arthropoda,Insecta,Lepidoptera,Cossidae,Langsdorfia,Langsdorfia franckii,BCIOM397-23,BOLD:AGC4708
+212,CNCLB6015-24,BCI188521,Leucania,Lepidoptera,100,480,Arthropoda,Insecta,Lepidoptera,Noctuidae,Leucania,Leucania senescens,BLPAA4844-17,BOLD:AAC6983
+51,CNCLB5793-23,CNCLEP00326953,Leucopleura ciarana,Lepidoptera,99.84,476,Arthropoda,Insecta,Lepidoptera,Erebidae,Leucopleura,Leucopleura ciarana,BCIAR105-10,BOLD:AAA1368
+52,CNCLB5794-23,CNCLEP00326954,Leucopleura ciarana,Lepidoptera,100,474,Arthropoda,Insecta,Lepidoptera,Erebidae,Leucopleura,Leucopleura ciarana,BCIAR128-10,BOLD:AAA1368
+266,CNCLB6146-24,BCI187504,Lirimiris,Lepidoptera,100,482,Arthropoda,Insecta,Lepidoptera,Notodontidae,Lirimiris,Lirimiris lignitecta,BLPAA17020-20,BOLD:AAA8832
+23,CNCLB5764-23,CNCLEP00326924,Lusura discalis,Lepidoptera,99.33,466,Arthropoda,Insecta,Lepidoptera,Notodontidae,Lusura,Lusura discalis,,BOLD:AAX5981
+30,CNCLB5771-23,CNCLEP00326931,Macrosoma heliconiaria,Lepidoptera,100,473,Arthropoda,Insecta,Lepidoptera,Hedylidae,Macrosoma,Macrosoma heliconiaria,BLPAA21704-20,BOLD:AAB9360
+198,CNCLB5988-24,BCI184538,Erebidae,Lepidoptera,100,479,Arthropoda,Insecta,Lepidoptera,Notodontidae,Magava,Magava multilinea,MHMYL7385-16,BOLD:AAA2565
+251,CNCLB6127-24,BCI189331,Marthula pleione,Lepidoptera,100,481,Arthropoda,Insecta,Lepidoptera,Notodontidae,Marthula,Marthula pleione,BCIGE355-10,BOLD:AAL9004
+179,CNCLB5963-24,BCI184713,Megalopyge,Lepidoptera,100,483,Arthropoda,Insecta,Lepidoptera,Megalopygidae,Megalopyge,Megalopyge albicollis,BCIOM031-19,BOLD:AEC4245
+177,CNCLB5960-24,BCI187730,Menevia,Lepidoptera,99.67,484,Arthropoda,Insecta,Lepidoptera,Mimallonidae,Menevia,Menevia ostia,MHMYQ2111-12,BOLD:AAB9066
+221,CNCLB6025-24,BCI190489,Menevia,Lepidoptera,99.67,484,Arthropoda,Insecta,Lepidoptera,Mimallonidae,Menevia,Menevia ostia,MHMYQ2111-12,BOLD:AAB9066
+114,CNCLB5881-24,BCI190974,Mesoscia,Lepidoptera,98.88,458,Arthropoda,Insecta,Lepidoptera,Megalopygidae,Mesoscia,Mesoscia dumilla,BLPBG869-07,BOLD:AAB0768
+150,CNCLB5925-24,BCI191541,Erebidae,Lepidoptera,99.2,468,Arthropoda,Insecta,Lepidoptera,Erebidae,Metalectra,Metalectra praecisalis,INCTA250-10,BOLD:ACF2264
+224,CNCLB6039-24,BCI188501,Metalectra,Lepidoptera,100,452,Arthropoda,Insecta,Lepidoptera,Erebidae,Metalectra,Metalectra praecisalis,,BOLD:AAM8461
+80,CNCLB5822-23,CNCLEP00326982,Micrathetis,Lepidoptera,100,475,Arthropoda,Insecta,Lepidoptera,Noctuidae,Micrathetis,Micrathetis tecnion,BLPDE718-09,BOLD:AAB3442
+235,CNCLB6074-24,BCI188965,Mosera,Lepidoptera,100,474,Arthropoda,Insecta,Lepidoptera,Notodontidae,Moresa,Moresa valkeri,PTNOT365-10,BOLD:AAA7172
+222,CNCLB6027-24,BCI188970,Motya,Lepidoptera,100,470,Arthropoda,Insecta,Lepidoptera,Nolidae,Motya,Motya mythias,BLPAA21726-20,BOLD:AAE6482
+181,CNCLB5967-24,BCI189848,Limacodidae,Lepidoptera,100,483,Arthropoda,Insecta,Lepidoptera,Limacodidae,Natada,Natada incandescens,BCIOM147-19,BOLD:ADN8510
+201,CNCLB5994-24,BCI188542,Natada,Lepidoptera,99.2,480,Arthropoda,Insecta,Lepidoptera,Limacodidae,Natada,Natada Malaise3075,CROZA36843-21,BOLD:AEL3075
+94,CNCLB5852-24,BCI189998,Norape,Lepidoptera,99.84,484,Arthropoda,Insecta,Lepidoptera,Megalopygidae,Norape,Norape ovina,BCIOM113-19,BOLD:AEC3375
+259,CNCLB6139-24,BCI187563,Notoplusia flavodiscata,Lepidoptera,100,465,Arthropoda,Insecta,Lepidoptera,Notodontidae,Notoplusia,Notoplusia flavodiscata,BCIOM394-23,BOLD:AFS7303
+233,CNCLB6059-24,BCI188845,Notodontidae,Lepidoptera,100,484,Arthropoda,Insecta,Lepidoptera,Notodontidae,Nycterotis,Nycterotis lignicolor,ASARD10966-14,BOLD:AAG5359
+271,CNCLB6154-24,BCI184639,Notodontidae,Lepidoptera,99.69,484,Arthropoda,Insecta,Lepidoptera,Notodontidae,Nystalea,Nystalea erikabjornstromae,LOCRH215-11,BOLD:AAC6402
+83,CNCLB5839-24,BCI190004,Notodontidae,Lepidoptera,100,476,Arthropoda,Insecta,Lepidoptera,Notodontidae,Nystalea,Nystalea joanna,MHMXZ1512-09,BOLD:ACF1333
+238,CNCLB6080-24,BCI189008,Notodontidae,Lepidoptera,99.84,468,Arthropoda,Insecta,Lepidoptera,Notodontidae,Nystalea,Nystalea superciliosa,BCIOM258-21,BOLD:AAA8476
+110,CNCLB5877-24,BCI190826,Nystalea,Lepidoptera,100,484,Arthropoda,Insecta,Lepidoptera,Notodontidae,Nystalea,Nystalea superciliosa,MHAND030-06,BOLD:AAA8476
+145,CNCLB5919-24,BCI189529,Ogdoconta,Lepidoptera,100,448,Arthropoda,Insecta,Lepidoptera,Noctuidae,Ogdoconta,Ogdoconta pulvilinea,BLPAA4828-17,BOLD:AAA7222
+170,CNCLB5951-24,BCI187593,Olceclostera,Lepidoptera,100,482,Arthropoda,Insecta,Lepidoptera,Apatelodidae,Olceclostera,Olceclostera amoria,BCIGE206-10,BOLD:AAL7682
+169,CNCLB5950-24,BCI187914,Olceclostera,Lepidoptera,100,481,Arthropoda,Insecta,Lepidoptera,Apatelodidae,Olceclostera,Olceclostera irrorata,BCIGE288-10,BOLD:AAA9883
+40,CNCLB5782-23,CNCLEP00326942,Oxidercia,Lepidoptera,99.84,475,Arthropoda,Insecta,Lepidoptera,Erebidae,Oxidercia,Oxidercia thaumantis,MHAUA703-05,BOLD:AAA2814
+171,CNCLB5954-24,BCI188942,Phiditia,Lepidoptera,99.84,457,Arthropoda,Insecta,Lepidoptera,Phiditiidae,Phiditia,Phiditia maculosissima,BCIGE313-10,BOLD:AAL8993
+191,CNCLB5979-24,BCI187661,Phobetron,Lepidoptera,99.85,489,Arthropoda,Insecta,Lepidoptera,Limacodidae,Phobetron,Phobetron hipparchia,,BOLD:AEA6076
+267,CNCLB6147-24,BCI184518,Phyllopalpia maltha,Lepidoptera,99.85,491,Arthropoda,Insecta,Lepidoptera,Notodontidae,Phyllopalpia,Phyllopalpia maltha,ASARD7723-14,BOLD:ACL3754
+205,CNCLB6001-24,BCI189899,Plusiodonta,Lepidoptera,100,498,Arthropoda,Insecta,Lepidoptera,Erebidae,Plusiodonta,Plusiodonta nitissima,MHMXM184-07,BOLD:AAA7682
+101,CNCLB5864-24,BCI190693,Erebidae,Lepidoptera,99.85,496,Arthropoda,Insecta,Lepidoptera,Erebidae,Plynteria,Plynteria marginata,CRSRD10134-23,BOLD:AAD5975
+50,CNCLB5792-23,CNCLEP00326952,Poliopastea auripes,Lepidoptera,99.84,473,Arthropoda,Insecta,Lepidoptera,Erebidae,Poliopastea,Poliopastea auripes,MHARB664-06,BOLD:AAD1862
+22,CNCLB5763-23,CNCLEP00326923,Pseudyrias,Lepidoptera,99.67,469,Arthropoda,Insecta,Lepidoptera,Erebidae,Pseudyrias,Pseudyrias tyei,,BOLD:AAX5262
+241,CNCLB6086-24,BCI189369,Erebidae,Lepidoptera,99.37,471,Arthropoda,Insecta,Lepidoptera,Notodontidae,Rhapigia,Rhapigia aymara,ASARD8106-14,BOLD:AAB2875
+231,CNCLB6057-24,BCI188601,Rhuda,Lepidoptera,100,465,Arthropoda,Insecta,Lepidoptera,Notodontidae,Rhuda,Rhuda difficilis,,BOLD:ACE9143
+55,CNCLB5797-23,CNCLEP00326957,Robinsonia sanea,Lepidoptera,100,465,Arthropoda,Insecta,Lepidoptera,Erebidae,Robinsonia,Robinsonia sanea,BCIAR601-12,BOLD:AAM3444
+183,CNCLB5969-24,BCI189767,Limacodidae,Lepidoptera,100,510,Arthropoda,Insecta,Lepidoptera,Limacodidae,Semyra,Semyra bella,BLPCC633-08,BOLD:AAB8593
+225,CNCLB6045-24,BCI189359,Notodontidae,Lepidoptera,100,456,Arthropoda,Insecta,Lepidoptera,Notodontidae,Sericochroa,Sericochroa demissa,CNCLB6151-24,BOLD:AAB0298
+303,CNCLB6211-24,BCI187514,Noctuidae,Lepidoptera,98.87,475,Arthropoda,Insecta,Lepidoptera,Noctuidae,Spodoptera,Spodoptera evanida,GBGL12568-13,
+305,CNCLB6214-24,BCI184709,Stauropides persimilis,Lepidoptera,99.54,480,Arthropoda,Insecta,Lepidoptera,Noctuidae,Stauropides,Stauropides persimilis,BCIOM169-19,BOLD:AEC5300
+282,CNCLB6169-24,BCI184666,Strophocerus,Lepidoptera,99.85,483,Arthropoda,Insecta,Lepidoptera,Notodontidae,Strophocerus,Strophocerus thermesius,BLPCO067-08,BOLD:AAB3591
+268,CNCLB6149-24,BCI184617,Poresta lophocera,Lepidoptera,99.35,480,Arthropoda,Insecta,Lepidoptera,Notodontidae,Tachuda,Tachuda lophocera,ASARD8013-14,BOLD:AAD6731
+281,CNCLB6168-24,BCI187493,Truncaptera,Lepidoptera,100,489,Arthropoda,Insecta,Lepidoptera,Notodontidae,Truncaptera,Truncaptera guatemalensis,BCIOM168-19,BOLD:AAA5137
+234,CNCLB6062-24,BCI189440,Tyrissa,Lepidoptera,100,460,Arthropoda,Insecta,Lepidoptera,Erebidae,Tyrissa,Tyrissa perstrigata,BLPAA16998-20,BOLD:AAC9650
+47,CNCLB5789-23,CNCLEP00326949,Virbia mentiens,Lepidoptera,100,470,Arthropoda,Insecta,Lepidoptera,Erebidae,Virbia,Virbia mentiens,BCIAR342-10,BOLD:ABY7927
+48,CNCLB5790-23,CNCLEP00326950,Virbia thersites,Lepidoptera,100,470,Arthropoda,Insecta,Lepidoptera,Erebidae,Virbia,Virbia thersites,BCIAR314-10,BOLD:AAM3023
+265,CNCLB6145-24,BCI184505,Dasylophia,Lepidoptera,99.68,466,Arthropoda,Insecta,Lepidoptera,Notodontidae,Xylodonta,Xylodonta guarana,,BOLD:ACL2968
+103,CNCLB5866-24,BCI189189,Zaphanta,Lepidoptera,100,462,Arthropoda,Insecta,Lepidoptera,Mimallonidae,Zaphanta,Zaphanta fraterna,BCIBT1489-13,BOLD:AAA9877
+119,CNCLB5887-24,BCI188541,Zaphanta,Lepidoptera,100,471,Arthropoda,Insecta,Lepidoptera,Mimallonidae,Zaphanta,Zaphanta fraterna,BCIBT1489-13,BOLD:AAA9877
+21,CNCLB5762-23,CNCLEP00326922,Pyralidae,Lepidoptera,92.53,484,Arthropoda,Insecta,Lepidoptera,Gelechiidae,Xenolechia,Xenolechia ontariensis,SMTPL6687-15,BOLD:AAC6357
+129,CNCLB5898-24,BCI191681,Nolidae,Lepidoptera,92.54,471,Arthropoda,Insecta,Lepidoptera,Geometridae,Eois,Eois ambarilla,EOISD021-14,BOLD:ACL9138
+128,CNCLB5897-24,BCI184566,Lepidoptera,Lepidoptera,92.66,495,Arthropoda,Insecta,Lepidoptera,Nolidae,Xenochroa,Xenochroa annae,LEPMY373-13,BOLD:ACD7060
+112,CNCLB5879-24,BCI190669,Mimallonidae,Lepidoptera,92.92,476,Arthropoda,Insecta,Lepidoptera,Mimallonidae,Aleyda,Aleyda accipiter,,BOLD:AEC2418
+77,CNCLB5819-23,CNCLEP00326979,Sterrhinae,Lepidoptera,92.97,476,Arthropoda,Insecta,Lepidoptera,Geometridae,Parasynegia,Parasynegia fortilineata,,BOLD:AAI5706
+92,CNCLB5850-24,BCI190980,Megalopygidae,Lepidoptera,93.16,481,Arthropoda,Insecta,Lepidoptera,Megalopygidae,Thoscora,Thoscora ribbeiDHJ02,MHMYF1744-10,BOLD:AAB0764
+25,CNCLB5766-23,CNCLEP00326926,Ocalaria,Lepidoptera,93.17,475,Arthropoda,Insecta,Lepidoptera,Nolidae,Blenina,Blenina chloromelana,,BOLD:ABX0045
+78,CNCLB5820-23,CNCLEP00326980,Phobolosia,Lepidoptera,93.24,466,Arthropoda,Insecta,Lepidoptera,Erebidae,Phobolosia,Phobolosia diagona,LOCRA890-08,BOLD:AAH9055
+93,CNCLB5851-24,BCI190529,Megalopygidae,Lepidoptera,93.32,482,Arthropoda,Insecta,Lepidoptera,Megalopygidae,Thoscora,Thoscora ribbeiDHJ02,MHMYF1744-10,BOLD:AAB0764
+74,CNCLB5816-23,CNCLEP00326976,Quandara hypozonata,Lepidoptera,93.33,484,Arthropoda,Insecta,Lepidoptera,Noctuidae,noctBioLep01,noctBioLep01 BioLep627,CRTOD16574-23,BOLD:ADK8704
+27,CNCLB5768-23,CNCLEP00326928,Ocalaria,Lepidoptera,93.37,472,Arthropoda,Insecta,Lepidoptera,Nolidae,Blenina,Blenina chloromelana,,BOLD:ABX0045
+24,CNCLB5765-23,CNCLEP00326925,Drobeta,Lepidoptera,93.63,466,Arthropoda,Insecta,Lepidoptera,Noctuidae,Drobeta,Drobeta Poole14,BLPCG250-08,BOLD:AAE2348
+120,CNCLB5888-24,BCI187634,Limacodidae,Lepidoptera,93.68,459,Arthropoda,Insecta,Lepidoptera,Lasiocampidae,Nesara,Nesara dalceroides,MHMYN7874-16,BOLD:AAA8155
+8,CNCLB5749-23,CNCLEP00326909,Pseudogerespa,Lepidoptera,93.83,472,Arthropoda,Insecta,Lepidoptera,Nolidae,Xenochroa,Xenochroa annae,LEPMY244-13,BOLD:ACD7060
+289,CNCLB6193-24,BCI184665,Sosxetra,Lepidoptera,93.88,452,Arthropoda,Insecta,Lepidoptera,Erebidae,Ceroctena,Ceroctena amynta,,BOLD:ACF4602
+32,CNCLB5773-23,CNCLEP00326933,Herminodes,Lepidoptera,93.92,477,Arthropoda,Insecta,Lepidoptera,Erebidae,Coeriana,Coeriana pretiosa,,BOLD:AAG5920
+69,CNCLB5811-23,CNCLEP00326971,Boletobiinae,Lepidoptera,93.95,464,Arthropoda,Insecta,Lepidoptera,Erebidae,Quandara,Quandara hypozonata,LNOUF027-11,BOLD:AAV4462
+207,CNCLB6006-24,BCI189637,Mursa,Lepidoptera,93.95,451,Arthropoda,Insecta,Lepidoptera,Erebidae,Zanclognatha,Zanclognatha zelleralis,,BOLD:AAJ9773
+199,CNCLB5989-24,BCI188724,Limacodidae,Lepidoptera,94.04,464,Arthropoda,Insecta,Lepidoptera,Limacodidae,Perola,Perola sericea,INCTA008-10,BOLD:AAM8475
+66,CNCLB5808-23,CNCLEP00326968,Boletobiinae,Lepidoptera,94.13,474,Arthropoda,Insecta,Lepidoptera,Erebidae,Sigela,Sigela BioLep4016,BLPDM1333-10,BOLD:AAK4016
+1,CNCLB5742-23,CNCLEP00326902,Sosxetra,Lepidoptera,94.33,464,Arthropoda,Insecta,Lepidoptera,Erebidae,Ceroctena,Ceroctena amynta,,BOLD:ACF4602
+190,CNCLB5978-24,BCI188620,Parasa sandrae,Lepidoptera,94.39,492,Arthropoda,Insecta,Lepidoptera,Limacodidae,Parasa,Parasa sandrae,,BOLD:AFX6698
+70,CNCLB5812-23,CNCLEP00326972,Clemensia,Lepidoptera,94.52,473,Arthropoda,Insecta,Lepidoptera,Erebidae,Anaulosia,Anaulosia BioLep58,BLPDF2588-19,BOLD:AAA9041
+105,CNCLB5869-24,BCI190807,Erebidae,Lepidoptera,95.03,487,Arthropoda,Insecta,Lepidoptera,Erebidae,erebidBioLep01,erebidBioLep01 BioLep9996,CRHYA20650-22,BOLD:AEO9996
+81,CNCLB5823-23,CNCLEP00326983,Afrida,Lepidoptera,95.26,480,Arthropoda,Insecta,Lepidoptera,Nolidae,nolBioLep01,nolBioLep01 BioLep690,BLPAA15699-19,BOLD:AAK3896
+254,CNCLB6133-24,BCI188758,Poresta,Lepidoptera,95.41,508,Arthropoda,Insecta,Lepidoptera,Erebidae,Coeriana,Coeriana Sullivan5285,CRTOD18308-23,BOLD:AAY5285
+64,CNCLB5806-23,CNCLEP00326966,Metalectra,Lepidoptera,95.45,473,Arthropoda,Insecta,Lepidoptera,Erebidae,Metalectra,Metalectra Malaise6742,CRALA1942-21,BOLD:AEM6742
+242,CNCLB6087-24,BCI188615,Heterocampinae,Lepidoptera,95.56,455,Arthropoda,Insecta,Lepidoptera,Notodontidae,Kalkoma,Kalkoma psiticula,PTNOT629-10,BOLD:AAN9675
+180,CNCLB5966-24,BCI187720,Dysodia,Lepidoptera,95.6,478,Arthropoda,Insecta,Lepidoptera,Thyrididae,Dysodia,Dysodia Janzen12,MHMYM3299-14,BOLD:AAB3904
+79,CNCLB5821-23,CNCLEP00326981,Afrida,Lepidoptera,95.63,477,Arthropoda,Insecta,Lepidoptera,Nolidae,Afrida,Afrida sp.,RDNME780-08,BOLD:AAB7116
+29,CNCLB5770-23,CNCLEP00326930,Eulepidotis,Lepidoptera,95.67,464,Arthropoda,Insecta,Lepidoptera,Erebidae,Eulepidotis,Eulepidotis hemithea,,BOLD:ACV2368
+149,CNCLB5924-24,BCI191780,Lycaugesia,Lepidoptera,95.87,483,Arthropoda,Insecta,Lepidoptera,Erebidae,Sigela,Sigela BioAlfa7950,,BOLD:AAU7950
+210,CNCLB6013-24,BCI189655,Trogoblemma,Lepidoptera,96.08,460,Arthropoda,Insecta,Lepidoptera,Noctuidae,Trogoblemma,Trogoblemma Poole01,,BOLD:AAB3736
+295,CNCLB6203-24,BCI184512,Drobeta,Lepidoptera,96.14,460,Arthropoda,Insecta,Lepidoptera,Noctuidae,Drobeta,Drobeta poliosema,BLPCE788-08,BOLD:AAE2324
+73,CNCLB5815-23,CNCLEP00326975,Lycaugesia,Lepidoptera,96.19,476,Arthropoda,Insecta,Lepidoptera,Erebidae,Sigela,Sigela BioAlfa7950,,BOLD:AAU7950
+130,CNCLB5899-24,BCI191624,Erebidae,Lepidoptera,96.31,478,Arthropoda,Insecta,Lepidoptera,Erebidae,Antiblemma,Antiblemma Janzen1115,MHMYL8987-16,BOLD:ADF1115
+13,CNCLB5754-23,CNCLEP00326914,Dolichosomastis leucogrammica,Lepidoptera,96.39,488,Arthropoda,Insecta,Lepidoptera,Erebidae,Dolichosomastis,Dolichosomastis dorsilinea,,BOLD:AAU0632
+68,CNCLB5810-23,CNCLEP00326970,Boletobiinae,Lepidoptera,96.41,470,Arthropoda,Insecta,Lepidoptera,Erebidae,Herminocala,Herminocala BioLep2803,BLPDM853-10,BOLD:AAI2803
+275,CNCLB6160-24,BCI184547,Poresta,Lepidoptera,96.48,496,Arthropoda,Insecta,Lepidoptera,Erebidae,Coeriana,Coeriana Sullivan5285,,BOLD:AAY5285
+37,CNCLB5778-23,CNCLEP00326938,Antiblemma,Lepidoptera,96.59,467,Arthropoda,Insecta,Lepidoptera,Erebidae,Antiblemma,Antiblemma Poole43,BLPDN2339-10,BOLD:AAJ2553
+98,CNCLB5861-24,BCI190658,Erebidae,Lepidoptera,96.62,492,Arthropoda,Insecta,Lepidoptera,Erebidae,Lesmone,Lesmone Poole01,CROZA33672-21,BOLD:AAI8034
+137,CNCLB5909-24,BCI190595,Paectes,Lepidoptera,96.64,489,Arthropoda,Insecta,Lepidoptera,Euteliidae,Paectes,Paectes areusa,,BOLD:AAT9654
+5,CNCLB5746-23,CNCLEP00326906,Arugisa,Lepidoptera,96.67,469,Arthropoda,Insecta,Lepidoptera,Erebidae,Arugisa,Arugisa BioLep87,BLPBD649-07,BOLD:AAE5680
+89,CNCLB5846-24,BCI189735,Heorta,Lepidoptera,97.13,460,Arthropoda,Insecta,Lepidoptera,Notodontidae,Heorta,Heorta dabuisa,MHANC034-05,BOLD:AAB4732
+292,CNCLB6197-24,BCI187543,Drobeta,Lepidoptera,97.13,476,Arthropoda,Insecta,Lepidoptera,Noctuidae,Drobeta,Drobeta crepuscula,MHMXU483-08,BOLD:AAE8046
+108,CNCLB5875-24,BCI191531,Notodontidae,Lepidoptera,97.18,447,Arthropoda,Insecta,Lepidoptera,Cossidae,Morpheis,Morpheis xylotribus,,BOLD:ADM1175
+194,CNCLB5982-24,BCI188830,Limacodidae,Lepidoptera,97.24,483,Arthropoda,Insecta,Lepidoptera,Limacodidae,Semyra,Semyra finitaDHJ03,MHMXE820-07,BOLD:AAB8521
+182,CNCLB5968-24,BCI189553,Limacodidae,Lepidoptera,97.25,508,Arthropoda,Insecta,Lepidoptera,Limacodidae,Perola,Perola BioLep05,BLPEE1664-12,BOLD:ABZ9266
+185,CNCLB5971-24,BCI189717,Limacodidae,Lepidoptera,97.25,508,Arthropoda,Insecta,Lepidoptera,Limacodidae,Perola,Perola BioLep05,BLPEE1664-12,BOLD:ABZ9266
+293,CNCLB6198-24,BCI184513,Drobeta,Lepidoptera,97.25,486,Arthropoda,Insecta,Lepidoptera,Noctuidae,Drobeta,Drobeta crepuscula,MHMXU483-08,BOLD:AAE8046
+2,CNCLB5743-23,CNCLEP00326903,Freilla,Lepidoptera,97.39,475,Arthropoda,Insecta,Lepidoptera,Erebidae,Freilla,Freilla Poole01,BLPAC374-06,BOLD:AAC0077
+131,CNCLB5900-24,BCI190671,Megalopyge,Lepidoptera,97.46,479,Arthropoda,Insecta,Lepidoptera,Megalopygidae,Megalopyge,Megalopyge Janzen03,BLPAA13226-18,BOLD:AAB0767
+16,CNCLB5757-23,CNCLEP00326917,Erebidae,Lepidoptera,97.55,467,Arthropoda,Insecta,Lepidoptera,Noctuidae,noctBioLep01,noctBioLep01 BioLep394,BLPDB389-09,BOLD:AAF3306
+75,CNCLB5817-23,CNCLEP00326977,Idaea,Lepidoptera,97.55,468,Arthropoda,Insecta,Lepidoptera,Geometridae,Idaea,Idaea muscifasciata,BLPDF4080-19,BOLD:AAA0818
+187,CNCLB5974-24,BCI189485,Limacodidae,Lepidoptera,97.61,474,Arthropoda,Insecta,Lepidoptera,Limacodidae,Natada,Natada fusca,,BOLD:AGA9507
+71,CNCLB5813-23,CNCLEP00326973,Eudoliche,Lepidoptera,97.67,467,Arthropoda,Insecta,Lepidoptera,Erebidae,Clemensia,Clemensia BioLep66,BLPDF394-09,BOLD:AAA1025
+19,CNCLB5760-23,CNCLEP00326920,Herminodes,Lepidoptera,97.68,470,Arthropoda,Insecta,Lepidoptera,Erebidae,Herminodes,Herminodes Malaise9648,CROAB32415-21,BOLD:AEL9648
+189,CNCLB5977-24,BCI188903,Limacodidae,Lepidoptera,97.72,488,Arthropoda,Insecta,Lepidoptera,Limacodidae,Euclea,Euclea mesoamericanaDHJ03,MHMXB452-06,BOLD:AAC1550
+106,CNCLB5871-24,BCI184472,Lepidoptera,Lepidoptera,97.76,465,Arthropoda,Insecta,Lepidoptera,Dalceridae,Acraga,Acraga philetera,ASARD5567-12,BOLD:AAB1247
+99,CNCLB5862-24,BCI190641,Erebidae,Lepidoptera,97.78,483,Arthropoda,Insecta,Lepidoptera,Erebidae,Metalectra,Metalectra BioLep08,JICCC016-16,BOLD:AAA7372
+195,CNCLB5984-24,BCI188967,Hemiceras,Lepidoptera,97.85,488,Arthropoda,Insecta,Lepidoptera,Limacodidae,Acharia,Acharia affinis,,BOLD:AGA6045
+301,CNCLB6209-24,BCI187724,Coeriana funebris,Lepidoptera,97.94,491,Arthropoda,Insecta,Lepidoptera,Erebidae,Arugisa,Arugisa Poole12,GMCRZ101-14,BOLD:AAC9420
+156,CNCLB5932-24,BCI189980,Euglyphis,Lepidoptera,97.97,483,Arthropoda,Insecta,Lepidoptera,Lasiocampidae,Euglyphis,Euglyphis sp. PE gr libnites,LASDG753-22,BOLD:AEZ9942
+157,CNCLB5933-24,BCI188910,Euglyphis,Lepidoptera,98,491,Arthropoda,Insecta,Lepidoptera,Lasiocampidae,Euglyphis,Euglyphis sp. PE gr libnites,LASDG753-22,BOLD:AEZ9942
+287,CNCLB6190-24,BCI188560,Herminodes,Lepidoptera,98.17,495,Arthropoda,Insecta,Lepidoptera,Erebidae,Herminodes,Herminodes sp. PL1,,BOLD:ACA8822
+202,CNCLB5995-24,BCI185418,Euglyphis,Lepidoptera,98.18,473,Arthropoda,Insecta,Lepidoptera,Lasiocampidae,Euglyphis,Euglyphis sp. PE gr libnites,LASDG753-22,BOLD:AEZ9942
+188,CNCLB5975-24,BCI187604,Limacodidae,Lepidoptera,98.39,475,Arthropoda,Insecta,Lepidoptera,Limacodidae,Parasa,Parasa schausi,,BOLD:AAL3462
+63,CNCLB5805-23,CNCLEP00326965,Idaea,Lepidoptera,98.4,470,Arthropoda,Insecta,Lepidoptera,Geometridae,Idaea,Idaea BioLep243,BLPDH317-09,BOLD:AAI7088
+56,CNCLB5798-23,CNCLEP00326958,Callisthenia truncata,Lepidoptera,98.5,468,Arthropoda,Insecta,Lepidoptera,Erebidae,Prepiella,Prepiella pexicera,BLPDF290-09,BOLD:AAJ1944
+206,CNCLB6002-24,BCI189548,Alesua,Lepidoptera,99.84,462,Arthropoda,Insecta,Lepidoptera,Erebidae,Alesua,Alesua BioLep1322,,BOLD:ACD8694
+146,CNCLB5921-24,BCI191508,Amolita,Lepidoptera,99.84,469,Arthropoda,Insecta,Lepidoptera,Erebidae,Amolita,Amolita pepitaDHJ04,BLPDR901-10,BOLD:AAM8752
+0,CNCLB5741-23,CNCLEP00326901,Amolita pepita,Lepidoptera,100,465,Arthropoda,Insecta,Lepidoptera,Erebidae,Amolita,Amolita pepitaDHJ04,BLPDR901-10,BOLD:AAM8752
+44,CNCLB5786-23,CNCLEP00326946,Antiblemma,Lepidoptera,100,476,Arthropoda,Insecta,Lepidoptera,Erebidae,Antiblemma,Antiblemma amargaDHJ03,MHAUB610-05,BOLD:AAA7641
+97,CNCLB5859-24,BCI191011,Erebidae,Lepidoptera,99.68,484,Arthropoda,Insecta,Lepidoptera,Erebidae,Antiblemma,Antiblemma Poole03,BLPAA6560-17,BOLD:AAD6142
+172,CNCLB5955-24,BCI189380,Anticla,Lepidoptera,98.57,473,Arthropoda,Insecta,Lepidoptera,Bombycidae,Anticla,Anticla anticaDHJ04,BLPBH033-07,BOLD:AAB6690
+96,CNCLB5854-24,BCI190540,Anticla,Lepidoptera,98.65,447,Arthropoda,Insecta,Lepidoptera,Bombycidae,Anticla,Anticla anticaDHJ04,BLPBH033-07,BOLD:AAB6690
+155,CNCLB5931-24,BCI188737,Artace,Lepidoptera,98.9,501,Arthropoda,Insecta,Lepidoptera,Lasiocampidae,Artace,Artace Montero07,ASARD6058-12,BOLD:ACA4869
+219,CNCLB6023-24,BCI190958,Nola,Lepidoptera,99.85,484,Arthropoda,Insecta,Lepidoptera,Nolidae,Callinola,Callinola BioLep44,,BOLD:AAA0755
+286,CNCLB6180-24,BCI184519,Callinola,Lepidoptera,100,448,Arthropoda,Insecta,Lepidoptera,Nolidae,Callinola,Callinola BioLep56,BLPAA16532-20,BOLD:ABZ8150
+174,CNCLB5957-24,BCI184626,Cicinnus,Lepidoptera,100,474,Arthropoda,Insecta,Lepidoptera,Mimallonidae,Cicinnus,Cicinnus Janzen03,BCIBT2177-21,BOLD:ACE5423
+124,CNCLB5893-24,BCI189371,Closteromorpha,Lepidoptera,100,486,Arthropoda,Insecta,Lepidoptera,Noctuidae,Closteromorpha,Closteromorpha Poole01,BLPDI242-09,BOLD:AAC7719
+302,CNCLB6210-24,BCI187562,Baniana,Lepidoptera,100,496,Arthropoda,Insecta,Lepidoptera,Erebidae,Deinopa,Deinopa ostiaDHJ04,MHAUA586-05,BOLD:AAB0967
+243,CNCLB6091-24,BCI189494,Notodontidae,Lepidoptera,99.84,455,Arthropoda,Insecta,Lepidoptera,Notodontidae,Disphragis,Disphragis Chacon12,ASARD8520-14,BOLD:ACL1832
+280,CNCLB6167-24,BCI184633,Notodontidae,Lepidoptera,99.83,446,Arthropoda,Insecta,Lepidoptera,Notodontidae,Disphragis,Disphragis onerosaDHJ01,BLPAA16304-19,BOLD:AAB5757
+249,CNCLB6123-24,BCI189401,Disphragis,Lepidoptera,100,482,Arthropoda,Insecta,Lepidoptera,Notodontidae,Disphragis,Disphragis persesDHJ02,MHAND036-06,BOLD:AAA6334
+82,CNCLB5838-24,BCI189868,Heterocampinae,Lepidoptera,99.84,453,Arthropoda,Insecta,Lepidoptera,Notodontidae,Disphragis,Disphragis tharisICG01,BLPAA3641-17,BOLD:AAB6166
+255,CNCLB6135-24,BCI188532,Heterocampinae,Lepidoptera,99.04,453,Arthropoda,Insecta,Lepidoptera,Notodontidae,Disphragisella,Disphragisella deliraICG01,ASARD8148-14,BOLD:ACL3611
+87,CNCLB5844-24,BCI189509,Heterocampinae,Lepidoptera,99.51,482,Arthropoda,Insecta,Lepidoptera,Notodontidae,Disphragisella,Disphragisella deliraICG02,MHMYC988-09,BOLD:AAA6781
+246,CNCLB6117-24,BCI189120,Noctuidae,Lepidoptera,99.67,453,Arthropoda,Insecta,Lepidoptera,Noctuidae,Drobeta,Drobeta Poole12,BLPCK808-08,BOLD:AAD0314
+136,CNCLB5907-24,BCI191010,Drobeta,Lepidoptera,99.68,466,Arthropoda,Insecta,Lepidoptera,Noctuidae,Drobeta,Drobeta Poole12,BLPCK808-08,BOLD:AAD0314
+147,CNCLB5922-24,BCI191558,Drobeta,Lepidoptera,99.35,448,Arthropoda,Insecta,Lepidoptera,Noctuidae,Drobeta,Drobeta Sullivan7433,,BOLD:AAY7433
+215,CNCLB6018-24,BCI190836,Drobeta,Lepidoptera,99.39,477,Arthropoda,Insecta,Lepidoptera,Noctuidae,Drobeta,Drobeta Sullivan7433,,BOLD:AAY7433
+260,CNCLB6140-24,BCI184714,Drugera,Lepidoptera,100,483,Arthropoda,Insecta,Lepidoptera,Notodontidae,Drugera,Drugera mimicaDHJ01,BCIOM071-19,BOLD:AAA3284
+153,CNCLB5928-24,BCI191489,Erebidae,Lepidoptera,100,498,Arthropoda,Insecta,Lepidoptera,Erebidae,Dyomyx,Dyomyx sp. 1YB,BCIGE922-21,BOLD:AAY5638
+116,CNCLB5884-24,BCI190570,Dyops,Lepidoptera,100,502,Arthropoda,Insecta,Lepidoptera,Erebidae,Dyops,Dyops chromatophilaDHJ01,MHAUB281-05,BOLD:ACF2155
+217,CNCLB6020-24,BCI190850,Encruphion,Lepidoptera,99.69,495,Arthropoda,Insecta,Lepidoptera,Erebidae,Encruphion,Encruphion Poole01,BLPCC789-08,BOLD:AAA4457
+67,CNCLB5809-23,CNCLEP00326969,Boletobiinae,Lepidoptera,100,470,Arthropoda,Insecta,Lepidoptera,Erebidae,ErebidaeGEN,ErebidaeGEN sp. 1YB,BCIPY652-10,BOLD:AAP2097
+45,CNCLB5787-23,CNCLEP00326947,Rejectaria,Lepidoptera,99.84,469,Arthropoda,Insecta,Lepidoptera,Erebidae,erebidBioLep01,erebidBioLep01 BioLep2048,BLPAA4690-17,BOLD:ACG2048
+162,CNCLB5941-24,BCI189459,Lasiocampidae,Lepidoptera,99.85,510,Arthropoda,Insecta,Lepidoptera,Lasiocampidae,Euglyphis,Euglyphis definitaJMR03,,BOLD:ADQ7073
+158,CNCLB5935-24,BCI184681,Euglyphis,Lepidoptera,99.54,491,Arthropoda,Insecta,Lepidoptera,Lasiocampidae,Euglyphis,Euglyphis rundalaJMR01,ASARD3490-12,BOLD:ABY0649
+269,CNCLB6150-24,BCI184637,Ginaldia,Lepidoptera,100,457,Arthropoda,Insecta,Lepidoptera,Notodontidae,Ginaldia,Ginaldia distinguendaDHJ01,BLPCJ391-08,BOLD:AAA6354
+31,CNCLB5772-23,CNCLEP00326932,Gonodes,Lepidoptera,99.83,444,Arthropoda,Insecta,Lepidoptera,Noctuidae,Gonodes,Gonodes Poole01,BLPDF008-09,BOLD:AAA2879
+300,CNCLB6208-24,BCI184588,Gonodes,Lepidoptera,99.85,477,Arthropoda,Insecta,Lepidoptera,Noctuidae,Gonodes,Gonodes Poole01,BLPDF008-09,BOLD:AAA2879
+86,CNCLB5842-24,BCI191014,Hapigia,Lepidoptera,99.08,489,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hapigia,Hapigia ribbeiDHJ09,BLPAA11930-18,BOLD:ADL9863
+109,CNCLB5876-24,BCI190928,Hapigia,Lepidoptera,100,462,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hapigia,Hapigia ribbeiDHJ09,BLPAA11930-18,BOLD:ADL9863
+34,CNCLB5775-23,CNCLEP00326935,Helia vitriluna,Lepidoptera,99.84,469,Arthropoda,Insecta,Lepidoptera,Erebidae,Helia,Helia vitrilunaDHJ02,MHMYL3194-11,BOLD:AAN6801
+10,CNCLB5751-23,CNCLEP00326911,Hemicephalis alesa,Lepidoptera,99.83,467,Arthropoda,Insecta,Lepidoptera,Erebidae,Hemicephalis,Hemicephalis alesaDHJ02,MHMYC2237-09,BOLD:AAB4206
+236,CNCLB6075-24,BCI188520,Hemiceras,Lepidoptera,99.83,471,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hemiceras,Hemiceras affinisDHJ02,,BOLD:AAB1139
+257,CNCLB6137-24,BCI187601,Hemiceras,Lepidoptera,100,472,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hemiceras,Hemiceras conspirataDHJ02,BCIOM045-19,BOLD:AEC3308
+278,CNCLB6164-24,BCI184654,Hemiceras commentica,Lepidoptera,99.02,462,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hemiceras,Hemiceras sp. 1YB,BCIOM262-21,BOLD:AEN4074
+229,CNCLB6054-24,BCI189271,Hemiceras,Lepidoptera,99.68,466,Arthropoda,Insecta,Lepidoptera,Notodontidae,Hemiceras,Hemiceras spAS2,LEMMZ037-10,BOLD:AAM9309
+7,CNCLB5748-23,CNCLEP00326908,Arugisa,Lepidoptera,99.19,481,Arthropoda,Insecta,Lepidoptera,Erebidae,Herminodes,Herminodes Sullivan9485,,BOLD:AAT9485
+186,CNCLB5972-24,BCI189622,Limacodidae,Lepidoptera,98.87,458,Arthropoda,Insecta,Lepidoptera,Tortricidae,Hilarographa,Hilarographa BioAlfa304,,BOLD:AGB1340
+192,CNCLB5980-24,BCI189682,Limacodidae,Lepidoptera,98.87,459,Arthropoda,Insecta,Lepidoptera,Tortricidae,Hilarographa,Hilarographa BioAlfa304,,BOLD:AGB1340
+193,CNCLB5981-24,BCI188669,Limacodidae,Lepidoptera,98.92,483,Arthropoda,Insecta,Lepidoptera,Tortricidae,Hilarographa,Hilarographa BioAlfa304,,BOLD:AGB1340
+49,CNCLB5791-23,CNCLEP00326951,Hypocharis sp. 1YB,Lepidoptera,100,470,Arthropoda,Insecta,Lepidoptera,Erebidae,Hypocharis,Hypocharis sp. 1YB,BCIAR202-10,BOLD:AAM3482
+223,CNCLB6035-24,BCI184710,Erebidae,Lepidoptera,99.84,477,Arthropoda,Insecta,Lepidoptera,Erebidae,Hypogrammodes,Hypogrammodes confusaDHJ01,LOCRB195-08,BOLD:AAK3044
+237,CNCLB6076-24,BCI189410,Notodontidae,Lepidoptera,99.65,453,Arthropoda,Insecta,Lepidoptera,Notodontidae,Ianassa,Ianassa rusticaDHJ06,MHANC230-05,BOLD:AAA7112
+85,CNCLB5841-24,BCI190679,Heterocampinae,Lepidoptera,99.82,456,Arthropoda,Insecta,Lepidoptera,Notodontidae,Ianassa,Ianassa rusticaDHJ06,MHANC230-05,BOLD:AAA7112
+107,CNCLB5874-24,BCI190699,Heterocampinae,Lepidoptera,99.82,448,Arthropoda,Insecta,Lepidoptera,Notodontidae,Ianassa,Ianassa rusticaDHJ06,MHANC230-05,BOLD:AAA7112
+62,CNCLB5804-23,CNCLEP00326964,Rhodochlora,Lepidoptera,99.19,473,Arthropoda,Insecta,Lepidoptera,Geometridae,Idaea,Idaea BioLep22,MHMYN9749-16,BOLD:ACY8567
+72,CNCLB5814-23,CNCLEP00326974,Idaea,Lepidoptera,98.73,472,Arthropoda,Insecta,Lepidoptera,Geometridae,Idaea,Idaea BioLep600,JICCW633-16,BOLD:AAD3913
+76,CNCLB5818-23,CNCLEP00326978,Idaea,Lepidoptera,98.73,472,Arthropoda,Insecta,Lepidoptera,Geometridae,Idaea,Idaea BioLep600,JICCW633-16,BOLD:AAD3913
+135,CNCLB5905-24,BCI191511,Erebidae,Lepidoptera,100,494,Arthropoda,Insecta,Lepidoptera,Nolidae,Iscadia,Iscadia Poole06,,BOLD:AAI2767
+175,CNCLB5958-24,BCI189291,Mimallonidae,Lepidoptera,99.24,508,Arthropoda,Insecta,Lepidoptera,Mimallonidae,Lacosoma,Lacosoma Janzen03,BLPCE727-08,BOLD:AAB9064
+176,CNCLB5959-24,BCI184477,Mimallonidae,Lepidoptera,99.39,508,Arthropoda,Insecta,Lepidoptera,Mimallonidae,Lacosoma,Lacosoma Janzen03,BLPCE727-08,BOLD:AAB9064
+54,CNCLB5796-23,CNCLEP00326956,Loxophlebia sp. 1YB,Lepidoptera,100,472,Arthropoda,Insecta,Lepidoptera,Erebidae,Loxophlebia,Loxophlebia sp. 1YB,BCIAR079-10,BOLD:ABY6105
+139,CNCLB5911-24,BCI190879,Lysana,Lepidoptera,100,467,Arthropoda,Insecta,Lepidoptera,Notodontidae,Lysana,Lysana Janzen02,ASARD9415-14,BOLD:AAB0000
+11,CNCLB5752-23,CNCLEP00326912,Marilopteryx,Lepidoptera,100,461,Arthropoda,Insecta,Lepidoptera,Noctuidae,Marilopteryx,Marilopteryx Malaise8733,BCIGE947-21,BOLD:ADZ8733
+42,CNCLB5784-23,CNCLEP00326944,Marilopteryx,Lepidoptera,100,459,Arthropoda,Insecta,Lepidoptera,Noctuidae,Marilopteryx,Marilopteryx Malaise8733,BCIGE947-21,BOLD:ADZ8733
+298,CNCLB6206-24,BCI188752,Marimatha,Lepidoptera,100,480,Arthropoda,Insecta,Lepidoptera,Noctuidae,Marimatha,Marimatha botyoidesDHJ01,BLPAA4711-17,BOLD:AAA2936
+297,CNCLB6205-24,BCI184600,Marimatha,Lepidoptera,99.85,483,Arthropoda,Insecta,Lepidoptera,Noctuidae,Marimatha,Marimatha Poole06,BLPCG407-08,BOLD:ABZ5505
+197,CNCLB5987-24,BCI187489,Megalopyge,Lepidoptera,99.39,470,Arthropoda,Insecta,Lepidoptera,Megalopygidae,Megalopyge,Megalopyge dyariDHJ02,MHMXL807-07,BOLD:AAX3295
+178,CNCLB5962-24,BCI187488,Megalopyge,Lepidoptera,100,481,Arthropoda,Insecta,Lepidoptera,Megalopygidae,Megalopyge,Megalopyge sp. 1YB,BCIOM117-19,BOLD:AEC2679
+115,CNCLB5883-24,BCI191593,Erebidae,Lepidoptera,99.84,459,Arthropoda,Insecta,Lepidoptera,Erebidae,Metalectra,Metalectra BioLep2027,BLPAA22948-20,BOLD:ACT5143
+209,CNCLB6011-24,BCI189774,Erebidae,Lepidoptera,100,459,Arthropoda,Insecta,Lepidoptera,Erebidae,Metalectra,Metalectra BioLep445,BLPDF4706-19,BOLD:AAE5698
+299,CNCLB6207-24,BCI188770,Erebidae,Lepidoptera,99.69,477,Arthropoda,Insecta,Lepidoptera,Erebidae,Metalectra,Metalectra BioLep630,BLPDL717-10,BOLD:AAK4051
+208,CNCLB6007-24,BCI189811,Erebidae,Lepidoptera,100,467,Arthropoda,Insecta,Lepidoptera,Erebidae,Metalectra,Metalectra BioLep637,BLPDL1296-10,BOLD:AAI2801
+142,CNCLB5914-24,BCI189865,Erebidae,Lepidoptera,100,482,Arthropoda,Insecta,Lepidoptera,Erebidae,Metalectra,Metalectra Malaise3206,CROZA41139-21,BOLD:AGE6623
+6,CNCLB5747-23,CNCLEP00326907,Motya,Lepidoptera,99.35,468,Arthropoda,Insecta,Lepidoptera,Nolidae,Motya,Motya Poole01,BLPCD578-08,BOLD:AAD4489
+154,CNCLB5929-24,BCI191506,Nagara,Lepidoptera,100,482,Arthropoda,Insecta,Lepidoptera,Euteliidae,Nagara,Nagara fenestraDHJ02,BLPCO045-08,BOLD:ACF0363
+216,CNCLB6019-24,BCI190653,Bagisarinae,Lepidoptera,99.84,465,Arthropoda,Insecta,Lepidoptera,Noctuidae,noctBioLep01,noctBioLep01 BioLep578,MHMYH987-10,BOLD:AAM1319
+294,CNCLB6201-24,BCI189279,Drobeta,Lepidoptera,99.84,466,Arthropoda,Insecta,Lepidoptera,Noctuidae,noctBioLep01,noctBioLep01 BioLep578,MHMYH987-10,BOLD:AAM1319
+65,CNCLB5807-23,CNCLEP00326967,Boletobiinae,Lepidoptera,99.65,472,Arthropoda,Insecta,Lepidoptera,Noctuidae,Noctuidae_incertae_sedis,Noctuidae_incertae_sedis sp. 14YB,BCIPY176-10,BOLD:AAP1881
+262,CNCLB6142-24,BCI187526,Heterocampinae,Lepidoptera,99.68,452,Arthropoda,Insecta,Lepidoptera,Notodontidae,,Notodontidae sp. 10YB,BCIOM425-23,BOLD:AFT7899
+228,CNCLB6051-24,BCI189199,Notodontidae,Lepidoptera,100,454,Arthropoda,Insecta,Lepidoptera,Notodontidae,NotodontidaeGEN,NotodontidaeGEN sp.6YB,BCIAR429-10,BOLD:AAM9298
+264,CNCLB6144-24,BCI187532,Heterocampinae,Lepidoptera,100,472,Arthropoda,Insecta,Lepidoptera,Notodontidae,NotodontidaeGEN,NotodontidaeGEN sp.6YB,BCIAR429-10,BOLD:AAM9298
+284,CNCLB6173-24,BCI184636,Notodontidae,Lepidoptera,100,475,Arthropoda,Insecta,Lepidoptera,Notodontidae,NotodontidaeGEN,NotodontidaeGEN sp.6YB,BCIAR429-10,BOLD:AAM9298
+84,CNCLB5840-24,BCI190006,Hippia,Lepidoptera,99.84,457,Arthropoda,Insecta,Lepidoptera,Notodontidae,notoMalaise16,notoMalaise16 malaise2008,CRSIA521-21,BOLD:ACG2008
+168,CNCLB5949-24,BCI184625,Olceclostera,Lepidoptera,100,482,Arthropoda,Insecta,Lepidoptera,Apatelodidae,Olceclostera,Olceclostera sp. 1YB,BCIOM069-19,BOLD:AEC3125
+38,CNCLB5779-23,CNCLEP00326939,Orsa,Lepidoptera,99.84,474,Arthropoda,Insecta,Lepidoptera,Erebidae,Orsa,Orsa erythrospilaDHJ01,BLPAA16378-20,BOLD:AAA0781
+15,CNCLB5756-23,CNCLEP00326916,Orsa,Lepidoptera,100,475,Arthropoda,Insecta,Lepidoptera,Erebidae,Orsa,Orsa erythrospilaDHJ01,BLPBC824-07,BOLD:AAA0781
+35,CNCLB5776-23,CNCLEP00326936,Orsa,Lepidoptera,100,475,Arthropoda,Insecta,Lepidoptera,Erebidae,Orsa,Orsa erythrospilaDHJ01,BLPAA16378-20,BOLD:AAA0781
+245,CNCLB6097-24,BCI184675,Paectes,Lepidoptera,99.84,458,Arthropoda,Insecta,Lepidoptera,Euteliidae,Paectes,Paectes foviferaDHJ01,MHAUC632-06,BOLD:AAC1420
+213,CNCLB6016-24,BCI190612,Noctuidae,Lepidoptera,100,480,Arthropoda,Insecta,Lepidoptera,Noctuidae,Perigea,Perigea sp.,,BOLD:AAU3306
+122,CNCLB5890-24,BCI188507,Rhabotina,Lepidoptera,99.84,487,Arthropoda,Insecta,Lepidoptera,Noctuidae,Perigea,Perigea Sullivan3145,,BOLD:AGG2701
+214,CNCLB6017-24,BCI190686,Calpinae,Lepidoptera,99.06,476,Arthropoda,Insecta,Lepidoptera,Erebidae,Plusiodonta,Plusiodonta Sullivan2986,,BOLD:AAU2986
+33,CNCLB5774-23,CNCLEP00326934,Pyrinia,Lepidoptera,100,468,Arthropoda,Insecta,Lepidoptera,Geometridae,Pyrinia,Pyrinia sp. 4YB,BCIGE338-10,BOLD:AAL9003
+41,CNCLB5783-23,CNCLEP00326943,Renia,Lepidoptera,99.84,471,Arthropoda,Insecta,Lepidoptera,Erebidae,Renia,Renia acclamalisDHJ01,LOCRA073-06,BOLD:ABZ0790
+253,CNCLB6130-24,BCI189391,Goodgeria apella,Lepidoptera,100,460,Arthropoda,Insecta,Lepidoptera,Notodontidae,Rifargia,Rifargia sp. 1YB,BCIBT1255-13,BOLD:ACG1635
+36,CNCLB5777-23,CNCLEP00326937,Sanys,Lepidoptera,100,474,Arthropoda,Insecta,Lepidoptera,Erebidae,Sanys,Sanys Sullivan5363,,BOLD:AAP5363
+163,CNCLB5943-24,BCI188747,Staetherinia,Lepidoptera,99.85,492,Arthropoda,Insecta,Lepidoptera,Erebidae,Sarsina,Sarsina BioLep02,BCIOM086-19,BOLD:AAP6197
+164,CNCLB5944-24,BCI188514,Staetherinia,Lepidoptera,99.85,492,Arthropoda,Insecta,Lepidoptera,Erebidae,Sarsina,Sarsina BioLep02,BCIOM086-19,BOLD:AAP6197
+14,CNCLB5755-23,CNCLEP00326915,Selenisa sueroides,Lepidoptera,99.84,453,Arthropoda,Insecta,Lepidoptera,Erebidae,Selenisa,Selenisa sp.,LPYPB087-08,BOLD:AAE3104
+126,CNCLB5895-24,BCI189905,Semaeopus,Lepidoptera,100,483,Arthropoda,Insecta,Lepidoptera,Geometridae,Semaeopus,Semaeopus sp. 20YB,BCIGE462-11,BOLD:AAM6708
+61,CNCLB5803-23,CNCLEP00326963,Acidaliodes enona,Lepidoptera,100,477,Arthropoda,Insecta,Lepidoptera,Erebidae,Sigela,Sigela BioLep2760,,BOLD:AEK2760
+20,CNCLB5761-23,CNCLEP00326921,Sosxetra,Lepidoptera,100,463,Arthropoda,Insecta,Lepidoptera,Erebidae,Sosxetra,Sosxetra grataDHJ01,BCIOM116-19,BOLD:AAA8259
+306,CNCLB6215-24,BCI184582,Sosxetra,Lepidoptera,100,483,Arthropoda,Insecta,Lepidoptera,Erebidae,Sosxetra,Sosxetra grataDHJ01,BCIOM116-19,BOLD:AAA8259
+90,CNCLB5848-24,BCI191913,Scolecocampinae,Lepidoptera,100,488,Arthropoda,Insecta,Lepidoptera,Crambidae,Spilomelinae_genus,Spilomelinae_genus sp. 47YB,BCIPY488-10,BOLD:AAP2102
+58,CNCLB5800-23,CNCLEP00326960,Tricentrogyna,Lepidoptera,99.2,476,Arthropoda,Insecta,Lepidoptera,Geometridae,sterMalaise3350,sterMalaise3350 Malaise3350,CRSIA12730-21,BOLD:ADT3350
+57,CNCLB5799-23,CNCLEP00326959,Tricentrogyna,Lepidoptera,99.52,476,Arthropoda,Insecta,Lepidoptera,Geometridae,sterMalaise3350,sterMalaise3350 Malaise3350,CRSIA12730-21,BOLD:ADT3350
+59,CNCLB5801-23,CNCLEP00326961,Tricentrogyna,Lepidoptera,99.52,476,Arthropoda,Insecta,Lepidoptera,Geometridae,sterMalaise3350,sterMalaise3350 Malaise3350,CRSIA12730-21,BOLD:ADT3350
+60,CNCLB5802-23,CNCLEP00326962,Tricentrogyna,Lepidoptera,99.52,476,Arthropoda,Insecta,Lepidoptera,Geometridae,sterMalaise3350,sterMalaise3350 Malaise3350,CRSIA12730-21,BOLD:ADT3350
+88,CNCLB5845-24,BCI189670,Strophocerus,Lepidoptera,99.84,480,Arthropoda,Insecta,Lepidoptera,Notodontidae,Strophocerus,Strophocerus albonotatusICG01,MHANC049-05,BOLD:AAD4730
+244,CNCLB6092-24,BCI189712,Notodontidae,Lepidoptera,99.5,452,Arthropoda,Insecta,Lepidoptera,Notodontidae,Tachuda,Tachuda plumipesICG02,BLPBB300-07,BOLD:AAA9746
+220,CNCLB6024-24,BCI189734,Tagela,Lepidoptera,99.39,486,Arthropoda,Insecta,Lepidoptera,Notodontidae,Tagela,Tagela cayugaDHJ01,MHANC600-06,BOLD:AAB5537
+125,CNCLB5894-24,BCI191024,Tagela,Lepidoptera,99.52,470,Arthropoda,Insecta,Lepidoptera,Notodontidae,Tagela,Tagela cayugaDHJ01,MHANC600-06,BOLD:AAB5537
+165,CNCLB5945-24,BCI189270,Thagona,Lepidoptera,100,467,Arthropoda,Insecta,Lepidoptera,Erebidae,Thagona,Thagona tibialisDHJ02,,BOLD:AAA3540
+166,CNCLB5946-24,BCI187588,Thagona,Lepidoptera,100,467,Arthropoda,Insecta,Lepidoptera,Erebidae,Thagona,Thagona tibialisDHJ02,,BOLD:AAA3540
+240,CNCLB6085-24,BCI189806,Notodontidae,Lepidoptera,100,465,Arthropoda,Insecta,Lepidoptera,Notodontidae,Truncaptera,Truncaptera meridionalisICG01,ASARD9066-14,BOLD:AAB5629
